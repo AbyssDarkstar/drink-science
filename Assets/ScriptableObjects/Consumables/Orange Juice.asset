@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 031a910d5e0cf704f88a030b2062a8e9, type: 3}
+  m_Name: Orange Juice
+  m_EditorClassIdentifier: 
+  ItemName: Orange Juice
+  Prefab: {fileID: 5784302046405177442, guid: 68a7433f5d79d2f4f8de79348ad6f420, type: 3}
+  Stats:
+    AlcoholicStrength: 0
+    CaffeineLevel: 0
+    EnergyLevel: 10
+    FluidColour: {r: 1, g: 0.4622727, b: 0, a: 1}
+    MentalStability: 10
+    Sourness: 5
+    Sweetness: 25
+  ItemDescription: Straight from the fruit, this orange juice is fresh. Just look
+    how orange it is.

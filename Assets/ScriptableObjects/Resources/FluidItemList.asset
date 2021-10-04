@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 822ce60afa383d5408d729d0e358aafe, type: 3}
+  m_Name: FluidItemList
+  m_EditorClassIdentifier: 
+  FluidItemList:
+  - {fileID: 11400000, guid: 74d3e43c7820bdb47bbe0bda34ca4f2b, type: 2}
+  - {fileID: 11400000, guid: 5f11b9f24521a3c458849d66af7202dc, type: 2}
+  - {fileID: 11400000, guid: 98bee29463b36b44283c463cc930e5ba, type: 2}
+  - {fileID: 11400000, guid: 0d889115f413ac94eafa3023640a7ab8, type: 2}
+  - {fileID: 11400000, guid: 67645793ca9008546bd22700b01e368c, type: 2}
+  - {fileID: 11400000, guid: 750be5f5c5f5cbb4287a1205bde2f93e, type: 2}
+  - {fileID: 11400000, guid: cc50a104f2fa05c4dad647947c4a5c16, type: 2}

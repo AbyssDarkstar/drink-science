@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4072992af48f69468614ffaaa52b0aa, type: 3}
+  m_Name: Energy
+  m_EditorClassIdentifier: 
+  AlcoholAny: 1
+  AlcoholLevelHigh: 0
+  AlcoholLevelLow: 0
+  CaffeineAny: 1
+  CaffeineLevelHigh: 0
+  CaffeineLevelLow: 0
+  EnergyAny: 0
+  EnergyLevelHigh: 100
+  EnergyLevelLow: 50
+  SourAny: 0
+  SourLevelHigh: 25
+  SourLevelLow: 10
+  SweetAny: 0
+  SweetLevelHigh: 0
+  SweetLevelLow: 0
